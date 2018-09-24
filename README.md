@@ -9,3 +9,6 @@ Second time using Beautifulsoup, way more proficient than the first time, which 
 
 ## Lessons Learnt
 `regex` library: it is a good library to remove content inside of {}, () etc. ex: `re.sub("[\(\[].*?[\)\]]", "",<String>)`
+
+## Concern
+My boss told me that it is easier to extract data through API. I am going to dig into that.
