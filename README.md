@@ -12,3 +12,5 @@ Second time using Beautifulsoup, way more proficient than the first time, which 
 
 ## Concern
 My boss told me that it is easier to extract data through API. I am going to dig into that.
+
+
